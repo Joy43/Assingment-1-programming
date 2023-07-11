@@ -1,8 +1,10 @@
 *{
    
     font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
     
 }
+
 
 /*  */
 #header {
@@ -114,6 +116,9 @@ height: 850px;
 margin-left: 90px;
 background: #FFF;
 }
+h1{
+    font-size: 23px;
+}
 .title-2{
     display: grid;
     align-items: center;
@@ -121,7 +126,7 @@ background: #FFF;
 }
 .flower-box-3{
     display: inline-flex;
-    gap: 15px;
+    gap: 8px;
     margin-top: 50px;
     margin-left: 40px;
    
@@ -244,7 +249,7 @@ height: 420px;
     width: 1920px;
  height: 467px;
  background: #ecafbd;
- margin-left: 50px;
+ margin-left: 40px;
 
 }
 .text-part{
@@ -255,8 +260,8 @@ height: 420px;
 .insta-photo{
     margin-top: 40px;
     display: inline-flex;
-    gap: 15px;
-    margin-left: 60px;
+    gap: 10px;
+    margin-left: 40px;
     cursor: pointer;
     opacity: 0.9;
 }
