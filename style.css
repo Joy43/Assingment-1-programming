@@ -111,7 +111,7 @@ line-height: normal;
 #bonous-part{
     width: 1920px;
 height: 850px;
-margin-left: 70px;
+margin-left: 90px;
 background: #FFF;
 }
 .title-2{
@@ -134,7 +134,7 @@ background: #FFF;
     border-radius: 300px 300px 0px 0px;
 
    background: rgba(167, 33, 98, 0.15);
-    width: 464px;
+    width: 364px;
   height: 538px;
    flex-shrink: 0;
 }
@@ -154,7 +154,7 @@ background: #FFF;
     border-radius: 300px 300px 0px 0px;
 
     background: rgba(5, 151, 160, 0.15);
-    width: 464px;
+    width: 364px;
   height: 538px;
    flex-shrink: 0;
 }
@@ -173,7 +173,7 @@ background: #FFF;
     border-radius: 300px 300px 0px 0px;
 
    background: rgba(167, 33, 98, 0.15);
-    width: 464px;
+    width: 364px;
   height: 538px;
    flex-shrink: 0;
 }
@@ -200,7 +200,7 @@ a{
     background: rgba(229, 84, 115, 0.10);
     padding: 20px;
     display: inline-flex;
-    margin-left: 70px;
+    margin-left: 90px;
 gap: 110px;
 }
 .div-support{
@@ -255,8 +255,8 @@ height: 420px;
 .insta-photo{
     margin-top: 40px;
     display: inline-flex;
-    gap: 20px;
-    margin-left: 40px;
+    gap: 15px;
+    margin-left: 60px;
     cursor: pointer;
     opacity: 0.9;
 }
@@ -267,8 +267,13 @@ height: 420px;
 }
 .photo-div{
     padding: 15px;
-    border-radius: 8px;
-    border-radius: 8px;
+    border-radius: 16px;
+
+    
+}
+.photo-div>img{
+    width: 300px;
+
 }
 
 
